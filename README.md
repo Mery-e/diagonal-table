@@ -7,7 +7,7 @@ Vous pouvez installer les dépendances en utilisant le fichier `requirements.txt
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone https://github.com/USERNAME/diagonal-table-notebook.git
+   git clone https://github.com/Mery_e/diagonal-table-notebook.git
    ```
 
 2. **Naviguer dans le répertoire du projet** :
